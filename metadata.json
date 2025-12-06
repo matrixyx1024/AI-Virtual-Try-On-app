@@ -1,0 +1,5 @@
+{
+  "name": "AI 换装工作室",
+  "description": "基于 Nano Banana 模型打造的智能虚拟试衣应用。支持自定义人脸与服装，一键生成全身试穿效果。",
+  "requestFramePermissions": []
+}
